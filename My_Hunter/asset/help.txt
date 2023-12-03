@@ -1,0 +1,21 @@
+HELP
+        ./my_hunter -h
+
+EXECUTE
+        ./my_hunter
+
+DESCRIPTION
+        Tiny death is a duck hunt type game with monsters named Satyr running in the desert.
+
+GOAL
+        The goal is to survive as long as possible.
+        Monsters are running faster each time you kill them.
+        Game over happen when a Satyr is going off screen.
+
+SPRITE
+        Satyr - by Lucky Loops
+
+MUSICS
+        Menu theme : Menu - by Toby Fox
+        Game theme : Wrong Enemy - by Toby Fox
+        Game over theme : Dont give up - by Toby Fox.
